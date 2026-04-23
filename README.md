@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
 
-<img src="https://img.shields.io/badge/C++-4479A1?style=for-the-badge&logo=C++L&logoColor=white">
+<img src="https://img.shields.io/badge/C-4479A1?style=for-the-badge&logo=C&logoColor=white">
 
 <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
 
