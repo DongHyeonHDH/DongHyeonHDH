@@ -32,17 +32,12 @@ Here are some ideas to get you started:
 
 <img src="https://img.shields.io/badge/C-4479A1?style=for-the-badge&logo=C&logoColor=white">
 
-<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
-
 <img src="https://img.shields.io/badge/elasticsearch-2C2255?style=for-the-badge&logo=elasticsearclh%20IDE&logoColor=white">
-
-<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 
 <img src="https://img.shields.io/badge/kotlin-232F3E?style=for-the-badge&logo=kotlin&logoColor=white">
 
 <img src="https://img.shields.io/badge/python-232F3E?style=for-the-badge&logo=python&logoColor=white">
 
-<img src="https://img.shields.io/badge/R-232F3E?style=for-the-badge&logo=R&logoColor=white">
    <br/>
    <br/>
  
