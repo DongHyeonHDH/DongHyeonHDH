@@ -83,7 +83,7 @@ def fetch_all_rows() -> list:
         req = urllib.request.Request(
             API_URL,
             data=body,
-            method="PATCH",
+            method="POST",
             headers={
                 "Authorization": f"Bearer {NOTION_TOKEN}",
                 "Notion-Version": NOTION_VERSION,
