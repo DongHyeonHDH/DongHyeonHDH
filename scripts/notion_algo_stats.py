@@ -40,8 +40,8 @@ from collections import Counter
 from datetime import datetime, timezone
 
 NOTION_TOKEN = os.environ.get("NOTION_TOKEN")
-DATA_SOURCE_ID = os.environ.get(
-    "NOTION_DATA_SOURCE_ID", "87b85b41-79ee-8226-86a0-87858026d0e4"
+DATA_SOURCE_ID = os.environ.get("NOTION_DATA_SOURCE_ID") or (
+    "87b85b41-79ee-8226-86a0-87858026d0e4"
 )
 README_PATH = os.environ.get("README_PATH", "README.md")
 RECENT_COUNT = int(os.environ.get("RECENT_COUNT", "8"))
