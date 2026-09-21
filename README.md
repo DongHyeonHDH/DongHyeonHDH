@@ -60,18 +60,19 @@ Here are some ideas to get you started:
 | 티어 | 문제 수 |
 |---|---|
 | D2 | 1 |
-| D4 | 6 |
+| D4 | 7 |
 | D6 | 1 |
 
-**사용 언어**: `java` 10
+**사용 언어**: `java` 11
 
-**자주 푼 유형 TOP 6**: `implementation` (8), `dfs` (3), `graph` (2), `bfs` (2), `union-find` (2), `math` (1)
+**자주 푼 유형 TOP 6**: `implementation` (9), `bfs` (3), `dfs` (3), `graph` (2), `union-find` (2), `math` (1)
 
 <details>
 <summary>최근 푼 문제 (8)</summary>
 
 | 날짜 | 문제 | 플랫폼 | 티어 | 유형 |
 |---|---|---|---|---|
+| 2026-09-21 | [[1868] 파핑파핑 지뢰찾기](https://app.notion.com/p/1868-3e285b4179ee811a9fdef6720f290976) | SWEA | D4 | bfs, implementation |
 | 2026-09-18 | [[8382] 방향 전환](https://app.notion.com/p/8382-3df85b4179ee811bacfbeaa0acf64d6b) | SWEA | D4 | graph, bfs |
 | 2026-09-17 | [[7465] 창용 마을 무리의 개수](https://app.notion.com/p/7465-3de85b4179ee81048229e325dddf3073) | SWEA | D4 | union-find, implementation |
 | 2026-09-17 | [[3289] 서로소 집합](https://app.notion.com/p/3289-3de85b4179ee810b9bdee8b6489a1571) | SWEA | D4 | union-find, implementation |
@@ -79,11 +80,10 @@ Here are some ideas to get you started:
 | 2026-09-16 | [[7699] 수지의 수지 맞는 여행](https://app.notion.com/p/7699-3dd85b4179ee813e8de1f22dd7e2cb9a) | SWEA | D4 | dfs, bfs, implementation |
 | 2026-09-16 | [[1267] [S/W 문제해결 응용] 10일차 - 작업순서](https://app.notion.com/p/1267-S-W-10-3dd85b4179ee81ee89f5e574731e5c8d) | SWEA | D6 | graph, implementation |
 | 2026-09-13 | [[14510] 나무 높이](https://app.notion.com/p/14510-3da85b4179ee81329145ca01c3c1fc33) | SWEA | D2 | math, implementation |
-| 2026-09-09 | [[2112] [모의 SW 역량테스트] 보호 필름](https://app.notion.com/p/2112-SW-3d685b4179ee812690fbc052a88a073d) | SWEA | - | dfs, backtracking |
 
 </details>
 
-_Last synced: 2026-09-20 22:49 UTC · from [Algorithm Note](https://notion.so) via GitHub Actions_
+_Last synced: 2026-09-21 23:44 UTC · from [Algorithm Note](https://notion.so) via GitHub Actions_
 
 <!-- ALGO-STATS:END -->
 
